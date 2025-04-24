@@ -1,0 +1,41 @@
+elective,elective_name,faculty_id,faculty_name,semester
+B1,Introduction to Design,30,Dr. Sandesh P,2
+B1,Introduction to Personal Finance,32,Dr. Siddharth R,2
+B1,Introduction to Internet of Things,12,Dr. Jagadeesha Bhat,2
+B1,Concurrency and Computation,22,Dr. Pramod Yelmewad,2
+B1,Computer Intensive Statistical Methods,29,Dr. Ramesh Athe,2
+B1,Industry Insights Program Part 1,44;45,Mr. Ram Subramanian;Mr. Sasi Kumar Sundara Rajan,2
+B2,Introduction to Design,30,Dr. Sandesh P,2
+B2,Introduction to Personal Finance,32,Dr. Siddharth R,2
+B2,Introduction to Internet of Things,12,Dr. Jagadeesha Bhat,2
+B2,Concurrency and Computation,22,Dr. Pramod Yelmewad,2
+B2,Computer Intensive Statistical Methods,29,Dr. Ramesh Athe,2
+B2,Industry Insights Program Part 1,44;45,Mr. Ram Subramanian;Mr. Sasi Kumar Sundara Rajan,2
+B3,Data Science with Python,1,Dr. Abdul Wahid,2
+B3,Introduction to Digital VLSI Design,23,Dr. Prakash Pawar,2
+B3,Industry Insights Program Part 1,44;45,Mr. Ram Subramanian;Mr. Sasi Kumar Sundara Rajan,2
+B3,Principles of Quantum Physics,6,Dr. Aswath B,2
+B4,Linux for Engineers,31,Dr. Shirshendu L,2
+B4,Photography101,24,Dr. Prabhu Prasad BM,2
+B4,Introduction to Holistic Personality Development,47;8,Prof. Chachadi;Dr. Chandrika K,2
+B4,Visual Design – Principles and Application in Product Communication,30,Dr. Sandesh P,2
+B1,Deep Learning for Computer Vision,7,Dr. Chinmayananda,6
+B1,Large Language Models,38,Dr. Sunil Saumya,6
+B1,Natural Language Processing,15,Dr. Krishnendu,6
+B1,Deep Speech Processing,35,Dr. SRM Prasanna,6
+B1,CMOS RF Circuit Design,26,Dr. Rajesh Kumar,6
+B2,Blockchain Technology,25,Dr. Rajendra Hegadi,6
+B2,Introduction to 5G Network,12,Dr. Jagadeesha Bhat,6
+B2,Model Checking,21,Dr. Pavan Kumar C,6
+B2,Quantum Communication,6,Dr. Aswath B,6
+B2,Quantum HPC and AI,18,Dr. Manish M,6
+B2,Design Thinking and Innovation,30,Dr. Sandesh P,6
+B3,Automotive Embedded and Multimedia Systems,42,Mr. Jagadeesh K,6
+B3,Microwave Engineering,34,Dr. Somen Bhattacharjee,6
+B3,Computer Graphics,41,Dr. Vivekraj V K,6
+B3,Machine Learning,9,Dr. Deepak KT,6
+B3,Virtualization and Cloud Computing,16,Dr. Malay,6
+B4,Data Analytics and Visualization,36,Dr. Sunil CK,6
+B4,Statistics for Health Technology,29,Dr. Ramesh Athe,6
+B4,Medical Image Analysis,11,Dr. Girish GN,6
+B4,Bioinformatics,37,Dr. Sunil Kumar PV,6
